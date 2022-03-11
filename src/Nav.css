@@ -1,0 +1,14 @@
+.Nav{
+position: fixed;
+top: 0; 
+
+display: flex;
+
+}
+ 
+.nav__logo{
+
+    width: 80px;
+    object-fit: contain;
+    background-color: 'transparent';
+}
